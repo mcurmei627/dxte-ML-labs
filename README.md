@@ -1,3 +1,3 @@
-# micurmei-ML-lab1
+# dxte-ML-labs
 
 Hands on lab for DX upskilling.
